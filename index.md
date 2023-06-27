@@ -1,6 +1,6 @@
 # AI and ML Portfolio
 
-All Projects worked on using AI and ML.
+My experiment with AI and ML
 
 ## Fraud Detection
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorised financial activity. 
