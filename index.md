@@ -5,4 +5,4 @@ My experiment with AI and ML
 ## Fraud Detection
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorised financial activity. 
 This may include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams and more.
-<center><img src="/assets/img/fraud.png"/></center>
+<center><img src="assets/img/fraud.png"/></center>
